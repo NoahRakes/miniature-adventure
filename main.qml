@@ -16,7 +16,7 @@ Window {
 
         Rectangle{
             anchors.fill: parent
-            color: "blue"
+            color: "yellow"
         }
     }
 }
